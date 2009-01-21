@@ -8,4 +8,4 @@ Ohhh.
 == Details ==
 
   # *What is Kevlar?*
-    Kevlar is kevlar entangled.
+  Kevlar is kevlar entangled.
